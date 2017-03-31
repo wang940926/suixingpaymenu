@@ -1,0 +1,11 @@
+{
+  "globals": {
+    "location": true,
+    "_": true,
+    "$": true
+  },
+  "extends": [
+    "standard",
+    "standard-jsx"
+  ]
+}

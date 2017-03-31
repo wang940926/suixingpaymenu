@@ -1,0 +1,23 @@
+.title {
+ display: inline;
+ margin: 0px 15px 10px 0px;
+ display:inline-block; font-size:14px; margin-right:20px; white-space:nowrap;
+ padding: 3px;
+ i{ 
+vertical-align:super;
+color:#F00;
+ }
+}
+.title:hover {
+text-align:center;
+// border:0px solid #a1a1a1;
+background:red;
+// width:80px;
+// border-radius:30px;
+// -moz-border-radius:0px;
+i{
+    color:#EFEFF4;
+}
+ color: #EFEFF4
+
+}
